@@ -15,13 +15,6 @@
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
-.jumbotron{
-  padding: 20px 30px 20px 30px;
-  margin: 0px auto;
-  background: #424242;
-  color: floralwhite;
-}
-
 body {
   background-image: url("../material-design-blue-and-white-to.jpg");
 }
@@ -35,19 +28,6 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.centerlist {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  background-color: #424242;
-  opacity: 0.7;
-  color: white;
-  font-size:20px;
-
-}
 .button:hover {
   background-color: #e1f5fe;
 }
